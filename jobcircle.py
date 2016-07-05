@@ -3,16 +3,7 @@ __author__ = 'Tiago Gomes da Silva'
 import csv
 
 # Open the earthquake data file.
-#filename = 'evento01.csv'
-#filename = 'evento02.csv'
-filename = 'evento03.csv'
-#filename = 'evento04.csv'
-#filename = 'evento05.csv'
-#filename = 'evento06.csv'
-#filename = 'evento07.csv'
-#filename = 'evento08.csv'
-#filename = 'evento09.csv'
-
+filename = 'file_example.csv'
 
 # Create empty lists for the data we are interested in.
 lats, lons = [], []
